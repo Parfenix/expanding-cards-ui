@@ -4,7 +4,7 @@ A smooth, interactive UI component where panels expand on click with dynamic gra
 
 ## 🖥️ Demo
 
- Live demo: https://your-link-here
+ Live demo: https://parfenix.github.io/expanding-cards-ui/
 
 ## ✨ Features
 
